@@ -1,4 +1,4 @@
 # informatyka
 
 Angelika Jaworska
-18.02.222
+18.02.2022
